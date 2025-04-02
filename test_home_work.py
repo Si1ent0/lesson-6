@@ -1,5 +1,4 @@
 from datetime import time
-from operator import itemgetter
 from pprint import pprint
 
 
